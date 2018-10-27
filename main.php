@@ -1,5 +1,6 @@
 <?php
 
+/* check one  */
 require "fbsdk/src/Facebook/autoload.php";
 session_start();
 $fb = new Facebook\Facebook([
